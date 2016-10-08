@@ -5,6 +5,6 @@ TTL		: 26 Agustus 1998
 Jenis kelamin	:
 
 
-Nama	: Fikri
-Npm	: 140810160016
+Nama	: Rezy
+Npm	: 140810160043
 
