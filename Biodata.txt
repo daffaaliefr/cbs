@@ -1,2 +1,4 @@
-Nama 	: Daffa Alief Rana
-NPM	: 140810160058
+Nama 		: Daffa Alief Rana
+NPM		: 140810160058
+TTL		: 26 Agustus 1998
+Jenis kelamin	:
