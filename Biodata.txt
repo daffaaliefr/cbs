@@ -1,2 +1,5 @@
 Nama 	: Daffa Alief Rana
 NPM	: 140810160058
+
+Nama	: Fikri
+Npm	: 140810160016
